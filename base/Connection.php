@@ -10,7 +10,7 @@ class Connection extends \yii\db\Connection implements IReconnect
     /**
      * @var string
      */
-    public $commandClass = 'xj\dbreconnect\Command';
+    public $commandClass = 'xj\dbreconnect\base\Command';
 
     /**
      * @var int
