@@ -1,0 +1,19 @@
+{
+    "name": "xj/yii2-db-reconnect",
+    "description": "yii2-db-auto-reconnect",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "xj\\dbreconnect\\": ""
+        }
+    }
+}
